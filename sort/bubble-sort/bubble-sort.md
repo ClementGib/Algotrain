@@ -1,6 +1,8 @@
 
 # Bubble sort 🫧
 
+![alt text](bubbleSort.gif)
+
 ## Sommaire
 1. [Français](#français)
 2. [English](#english)
